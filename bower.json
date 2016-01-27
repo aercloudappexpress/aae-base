@@ -1,0 +1,34 @@
+{
+  "name": "aae-base",
+  "version": "0.1.0",
+  "authors": [
+    "YC <aercloud-dev @aeris.net>"
+  ],
+  "description": "The base module for AerCloud AppExpress.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "aercloud",
+    "appexpress"
+  ],
+  "main": "aae-base.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/aercloud/aae-base/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "globals",
+    "es6"
+  ], 
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "web-component-tester": "^3.4.0"
+  }
+}
