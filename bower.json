@@ -12,8 +12,8 @@
     "appexpress"
   ],
   "main": "aae-base.html",
-  "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/aercloud/aae-base/",
+  "license": "http://aercloudappexpress.github.io/LICENSE.txt",
+  "homepage": "https://github.com/aercloudappexpress/aae-base/",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -22,8 +22,7 @@
     "tests"
   ],
   "moduleType": [
-    "globals",
-    "es6"
+    "globals"
   ], 
   "dependencies": {
     "polymer": "Polymer/polymer#^1.2.0"
